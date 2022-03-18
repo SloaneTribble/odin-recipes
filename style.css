@@ -1,0 +1,22 @@
+h1,
+h2{
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: bisque;
+    border-style: groove;
+    border-radius: 5px;
+    border-color:blueviolet;
+    text-align:center;
+}
+
+p, ul, ol{
+    background-color: cornsilk;
+}
+
+ul{
+    font-style:italic;
+}
+
+ol{
+    font-weight:bold;
+}
